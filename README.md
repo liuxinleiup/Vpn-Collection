@@ -42,7 +42,8 @@
   [穿梭](https://www.transocks.com/payment?affiliate-code=wzba3ga)：25Y    
   [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ&exp=e00)+[Bing](https://cn.bing.com/)：部分可以    
 # 三：手机
-**软件获取：安卓Android从Google Play商店下载 、苹果IOS从App Store下载**
+**软件获取：安卓Android从Google Play商店下载 、苹果IOS从App Store下载**   
+        
 ## 1.Android和IOS
       Bamboo VPN：能使用ChatGPT                     【7个国家】   
       BlueSpeed VPN：能使用ChatGPT                  【IOS有9个国家】   
