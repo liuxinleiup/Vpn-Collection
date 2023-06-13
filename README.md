@@ -7,6 +7,7 @@
  [Expressvpn](https://www.expressvpn.com/)：12.95Y  
  [魔戒](https://mojie.buzz/#/register?code=A5UYHe3F)：14.90Y  
  [NiceCloud](https://www.nicecloud.me/index.php#/register?code=qg2YJdym)：14.99Y  
+ [NoCloud](https://91npo.com/)：20Y    
 ## 2.免费
 ### 2.1 直接用
   [CloudFlare](https://1.1.1.1/)、 [官网](https://www.cloudflare-cn.com/)：电报Warp+Bot可以使用24小时(不能使用ChatGPT)    
