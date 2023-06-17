@@ -17,7 +17,7 @@
   [全平台翻墙工具](https://binghe.gitbook.io/quan-ping-tai-fan-qiang-gong-ju/0/windows)、[Shadowsocks 多平台](https://www.linuxsss.com/client/)、[ShadowSocks](https://itlanyan.com/shadowsockr-shadowsocksr-shadowsocksrr-clients/)、[V2rayN](https://v2rayn.org/v2rayn-download/)
   >Clash：比较好用，电脑常用  
   >V2rayN：电脑常用    
-  >小火煎SSR：节点较少（安卓免费且自带节点）   
+  >小火箭ShadowSocks(SSR)：节点较少（安卓免费且自带节点）   
   >Netch    
   >SSTap    
   >Quantumult   
