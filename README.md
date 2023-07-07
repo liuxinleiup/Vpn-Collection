@@ -10,7 +10,7 @@
  [NoCloud](https://91npo.com/)：20Y    
 ## 2.免费
 ### 2.1 直接用
-  [CloudFlare](https://1.1.1.1/)、 [官网](https://www.cloudflare-cn.com/)：电报Warp+Bot可以使用24小时(不能使用ChatGPT)    
+  [CloudFlare](https://1.1.1.1/)、 [官网](https://www.cloudflare-cn.com/)：电脑常用，号称永久免费且速度不错；电报Warp+Bot可以使用24小时(不能使用ChatGPT)    
   [白鲸加速器](https://www.bjch123.com/?mid=3005)：可以无限注册
 ### 2.2 需节点
 #### 2.2.1 途径
