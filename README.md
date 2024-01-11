@@ -39,8 +39,10 @@
 # 二：电脑
   [Pigcha](https://run.pigcha.com/)：免200M，38Y（能使用ChatGPT）    
   [谷歌上网助手](https://link.zhihu.com/?target=https%3A//chrome.zzzmh.cn/info/cieikaeocafmceoapfogpffaalkncpkc)：15.99Y   
+  [iGG谷歌学术助手](https://iguge.net/)：18Y（能使用ChatGPT）   
   [小蜜蜂](https://www.swarm01.xyz/)：手机免费2G，25Y     
   [穿梭](https://www.transocks.com/payment?affiliate-code=wzba3ga)：25Y    
+  [ikuuu](https://ikuuu.me/auth/login)：ikuuu    
   [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ&exp=e00)+[Bing](https://cn.bing.com/)：部分可以    
 # 三：手机
 **软件获取：安卓Android从Google Play商店下载 、苹果IOS从App Store下载**   
