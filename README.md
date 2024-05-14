@@ -1,5 +1,5 @@
 # VPN收集各个平台
-  好用的vpn收集，包括手机电脑平板各种平台 android和ios各种系统
+  好用的vpn收集，包括手机电脑平板各种平台 android和ios各种系统     
   [科学上网](https://github.com/bannedbook/fanqiang)    
 # 一：各个平台都可以的
 ## 1.花钱
