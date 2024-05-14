@@ -13,7 +13,7 @@
   [CloudFlare](https://1.1.1.1/)、 [官网](https://www.cloudflare-cn.com/)：电脑常用，号称永久免费且速度不错；电报Warp+Bot可以使用24小时(不能使用ChatGPT)   
   Leaf
        github： [Leaf](https://github.com/eycorsican/leafvpn-desktop/releases)
-       [全部](https://www.kitslabs.com/leafvpn.downloads.html)
+       [全部](https://www.kitslabs.com/leafvpn.downloads.html)         
   [白鲸加速器](https://www.bjch123.com/?mid=3005)：可以无限注册
 ### 2.2 需节点
 #### 2.2.1 途径
