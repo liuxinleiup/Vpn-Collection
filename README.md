@@ -4,6 +4,7 @@
 # 一：各个平台都可以的
 ## 1.花钱   
  [两元店 订阅链接的](https://xn--5hqx9equq.com/#/register?code=Iz6JuFuR)：7Y  
+ [白鲸加速器](https://www.bjch123.com/?mid=3005)：19Y       
  [小地球仪](https://www.xiaodiqiuyi.com/#/software_download)：28Y    
 ## 2.免费
 ### 2.1 直接用
@@ -11,7 +12,6 @@
   Leaf
        github： [Leaf](https://github.com/eycorsican/leafvpn-desktop/releases)
        [全部](https://www.kitslabs.com/leafvpn.downloads.html)         
-  [白鲸加速器](https://www.bjch123.com/?mid=3005)：可以无限注册
 ### 2.2 需节点
 #### 2.2.1 途径
   [全平台翻墙工具](https://binghe.gitbook.io/quan-ping-tai-fan-qiang-gong-ju/0/windows)、[Shadowsocks 多平台](https://www.linuxsss.com/client/)、[ShadowSocks](https://itlanyan.com/shadowsockr-shadowsocksr-shadowsocksrr-clients/)、[V2rayN](https://v2rayn.org/v2rayn-download/)
