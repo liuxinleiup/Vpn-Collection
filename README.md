@@ -2,13 +2,9 @@
   好用的vpn收集，包括手机电脑平板各种平台 android和ios各种系统     
   [科学上网](https://github.com/bannedbook/fanqiang)    
 # 一：各个平台都可以的
-## 1.花钱
- [小蓝加速](https://ss.xiaolan798.xyz/#/register?code=WSYv2w9h)：1.99Y       
- [两元店](https://xn--5hqx9equq.com/#/register?code=Iz6JuFuR)：7Y  
- [Expressvpn](https://www.expressvpn.com/)：12.95Y  
- [魔戒](https://mojie.buzz/#/register?code=A5UYHe3F)：14.90Y  
- [NiceCloud](https://www.nicecloud.me/index.php#/register?code=qg2YJdym)：14.99Y  
- [NoCloud](https://91npo.com/)：20Y    
+## 1.花钱   
+ [两元店 订阅链接的](https://xn--5hqx9equq.com/#/register?code=Iz6JuFuR)：7Y  
+ [小地球仪](https://www.xiaodiqiuyi.com/#/software_download)：28Y    
 ## 2.免费
 ### 2.1 直接用
   [CloudFlare](https://1.1.1.1/)、 [官网](https://www.cloudflare-cn.com/)：电脑常用，号称永久免费且速度不错；电报Warp+Bot可以使用24小时(不能使用ChatGPT)   
