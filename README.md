@@ -11,7 +11,8 @@
   [CloudFlare](https://1.1.1.1/)、 [官网](https://www.cloudflare-cn.com/)：电脑常用，号称永久免费且速度不错；电报Warp+Bot可以使用24小时(不能使用ChatGPT)   
   Leaf
        github： [Leaf](https://github.com/eycorsican/leafvpn-desktop/releases)
-       [全部](https://www.kitslabs.com/leafvpn.downloads.html)         
+       [全部](https://www.kitslabs.com/leafvpn.downloads.html)        
+  NthLink：[https://www.nthlink.com]     
 ### 2.2 需节点
 #### 2.2.1 途径
   [全平台翻墙工具](https://binghe.gitbook.io/quan-ping-tai-fan-qiang-gong-ju/0/windows)、[Shadowsocks 多平台](https://www.linuxsss.com/client/)、[ShadowSocks](https://itlanyan.com/shadowsockr-shadowsocksr-shadowsocksrr-clients/)、[V2rayN](https://v2rayn.org/v2rayn-download/)
@@ -57,9 +58,10 @@
       海鸥加速器：速度不错                           【7个国家】    
  [云端](https://drive.google.com/drive/folders/14rRZJIHZhfT825isjajeAhoAzuGpko5p)   
 ## 3.IOS手机
-      快喵VPN：速度不错，能使用ChatGPT               【10个国家】
-
-
+      快喵加速器：每日2G               【10个国家】     
+      小牛加速器：每日2G    
+      旋风VPN：每日1.2G         
+      胡萝卜加速器：每日1G     
 
 
 
