@@ -12,7 +12,7 @@
   Leaf
        github： [Leaf](https://github.com/eycorsican/leafvpn-desktop/releases)
        [全部](https://www.kitslabs.com/leafvpn.downloads.html)        
-  NthLink：[https://www.nthlink.com]     
+  NthLink：[NthLink](https://www.nthlink.com)            
 ### 2.2 需节点
 #### 2.2.1 途径
   [全平台翻墙工具](https://binghe.gitbook.io/quan-ping-tai-fan-qiang-gong-ju/0/windows)、[Shadowsocks 多平台](https://www.linuxsss.com/client/)、[ShadowSocks](https://itlanyan.com/shadowsockr-shadowsocksr-shadowsocksrr-clients/)、[V2rayN](https://v2rayn.org/v2rayn-download/)
